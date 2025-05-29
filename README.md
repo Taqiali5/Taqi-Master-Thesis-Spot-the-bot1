@@ -1,5 +1,5 @@
 
-# 🧠 Semantic Trajectories for Bot Detection in Low-Resource Languages
+# 🧠 Semantic Trajectories Analysis in Natural Languages for Spotting the Bots
 
 This repository contains the code, data samples, and methodology for the M.Sc. thesis project:  
 **"Semantic Trajectories Analysis in Natural Languages for Spotting the Bots"**  
