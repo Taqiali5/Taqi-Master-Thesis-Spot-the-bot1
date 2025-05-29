@@ -1,15 +1,10 @@
-Here is a full `README.md` file written specifically for your thesis project, based on the content and structure of your defense and paper:
 
----
-
-````markdown
 # 🧠 Semantic Trajectories for Bot Detection in Low-Resource Languages
 
 This repository contains the code, data samples, and methodology for the M.Sc. thesis project:  
 **"Semantic Trajectories Analysis in Natural Languages for Spotting the Bots"**  
 by **Syed Taqi Ali**, Faculty of Computer Science, HSE University.
 
----
 
 ## 📌 Overview
 
@@ -17,7 +12,6 @@ This project presents an **unsupervised approach** to distinguish AI-generated (
 
 The core pipeline combines **trigram embeddings** (via FastText and Word2Vec), **dimensionality reduction**, and **Wishart clustering** to detect differences in semantic flow between human and bot texts.
 
----
 
 ## 🧪 Dataset
 
@@ -33,7 +27,6 @@ Two corpora were created per language:
 
 Custom tokenizers and lemmatizers were built for both languages.
 
----
 
 ## 🔍 Methodology
 
@@ -45,8 +38,6 @@ Custom tokenizers and lemmatizers were built for both languages.
 4. **Clustering** – Wishart algorithm  
 5. **Evaluation** – Calinski–Harabasz (CH Index), silhouette, Davies-Bouldin  
 6. **Entropy-Complexity Analysis** – To assess structural differences
-
----
 
 ## 💡 Key Findings
 
